@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Abel Orihuela and I'm a **Software Engineer** from México,
+I have a experience working with software development lifecycle
+
+- 🔭 I’m currently working at **Globant**
+- 🌱 I’m currently learning go, you can see my guide here [Go notes](https://abelh.notion.site/Structs-7b7d6c14f6c9490e84ec9e8ace9ffed1)
+
+:white_check_mark: [Linkedin](https://www.linkedin.com/in/abelh-orihuela/)
+:white_check_mark: [Github](https://github.com/abelhOrihuela)
 <!--
 **abelhOrihuela/abelhorihuela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
