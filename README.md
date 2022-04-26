@@ -4,7 +4,7 @@ I'm Abel Orihuela and I'm a **Software Engineer** from México,
 I have a experience working with software development lifecycle
 
 - 🔭 I’m currently working at **Globant**
-- 🌱 I’m currently learning go, you can see my guide here [Go notes](https://abelh.notion.site/Structs-7b7d6c14f6c9490e84ec9e8ace9ffed1)
+- 🌱 I’m currently learning go, you can see my guide here [Go notes](https://abelh.notion.site/abelh/Golang-notes-4f1e6cc9d0c74a1abc7c0e752cb2c42b)
 
 :white_check_mark: [Linkedin](https://www.linkedin.com/in/abelh-orihuela/)
 :white_check_mark: [Github](https://github.com/abelhOrihuela)
